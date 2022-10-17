@@ -21,7 +21,7 @@ let handler = async (m, { text }) => {
 `.trim()
     }
   }).filter(v => v).join('\n\n─────────────━─────────────\n\n')
-  m.reply(`*${htka} SEARCH ${htkai}*\n\n` + teks)
+  m.reply(`*${htka} SEARCH ${htki}*\n\n` + teks)
 }
 handler.help = ['', 'earch'].map(v => 'yts' + v + ' <pencarian>')
 handler.tags = ['tools']

@@ -8,19 +8,16 @@ if (!args[0]) throw `Use example ${usedPrefix}${command} https://www.tiktok.com/
     const url = video.no_watermark || video.no_watermark2 || video.no_watermark_raw
     if (!url) throw 'Can\'t download video!'
     conn.sendFile(m.chat, url, 'tiktok.mp4', 
-`${htka} *𝙐𝙨𝙚𝙧𝙣𝙖𝙢𝙚* ${htki}
+`
+⟐═══⟮ *Usᴇʀɴᴀᴍᴇ:* ⟯═══⟕
+┇⟣⟪ ${nickname} ⟫⟢
+▥ ━┉┄┄┈┈⟕
 
-╔══════···═════⟕
-┃ ${nickname} 
-╚════···════⟕
+⟐═══⟮ *Dᴇsᴄʀɪᴘᴛɪᴏɴ:* ⟯═══⟕
+┇${description}
+◈ ━┉┈┄┈┈⟕
 
-╔══════···═════⟕
-┃ *Dᴇsᴄʀɪᴘᴛɪᴏɴ:* 
-┃
-┃ ${description}
-╚════···════⟕
 
-*𝐆𝐫𝐨𝐮𝐩 𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃* : _https://chat.whatsapp.com/Bbh5bDDQsWQBxQTaY5tHBJ_
 `.trim(), m)
 }
 handler.help = ['tiktok'].map(v => v + ' <url>')
