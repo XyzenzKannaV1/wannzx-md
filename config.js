@@ -2,8 +2,8 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : Swift Developer
+𝐖𝐚 : 088980870067
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
@@ -80,57 +80,57 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281265970249', '𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝', true],
-['6283870480221', '𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃', true]
+['6288980870067', Swift Developer', true],
+['6283112831554', 'Siesta MD', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281265970249'
-global.nomorown = '6281265970249'
-global.nomorown1 = '6281265970249'
-global.nomorown2 = '6283870480221'
+global.nomorbot = '6283112831554'
+global.nomorown = '6288980870067'
+global.nomorown1 = '6288980870067'
+global.nomorown2 = '6283112831554'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '「 𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝 」'
-global.namebot = '​ 「 𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃 」'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝'
-global.media = 'https://telegra.ph/file/266b27b2c563f41d48609.jpg'
-global.wm = '「 𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝 」 '
+global.author = '「 Siesta MD 」'
+global.namebot = '​ 「 Siesta - Multi Device 」'
+global.wm = '© Siesta Multi Device'
+global.media = 'https://telegra.ph/file/7d5031d5586fe4dff2891.jpg'
+global.wm = '「 Swift Developer 」 '
 global.watermark = wm
-global.wm2 = '「 𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃 」 '
+global.wm2 = '「 Siesta MD 」 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝`
-global.stickpack = '𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝'
-global.stickauth = `© 𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃`
+global.titlebot = `Siesta MD`
+global.stickpack = 'Siesta MD'
+global.stickauth = `© Siesta MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝐖𝐚𝐧𝐧𝐳𝐱-𝐌𝐝'
-global.nameown2 = '𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃'
+global.nameown1= 'Swift Developer'
+global.nameown2 = 'Siesta Multi Device'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.Linkgc = 'https://chat.whatsapp.com/KbgGdT1cV3rD5JzJDZryis'
+global.lynk = 'https://linktr.ee/kannachanv1'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/wannzx_133'
-global.sgh = 'https://github.com/WannBotz' //github
-global.sgc = 'https://chat.whatsapp.com/Bbh5bDDQsWQBxQTaY5tHBJ' //group whatsapp
+global.sig = 'https://instagram.com/siesta'
+global.sgh = 'https://github.com/XyzenzKannaV1' //github
+global.sgc = 'https://chat.whatsapp.com/KbgGdT1cV3rD5JzJDZryis' //group whatsapp
 global.sdc = '-' //discord
 global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0812 65970249'
+global.pdana = '088980870067'
 global.povo = '-'
-global.pgopay = '0812 6597 0249'
-global.plinkaja = '0812 6597 0249' //link aja
-global.ppulsa = '0812 6597 0249'
-global.ppulsa2 = '0838 7048 0221'
+global.pgopay = '083112831554'
+global.plinkaja = '083112831554' //link aja
+global.ppulsa = '083112831554'
+global.ppulsa2 = '088980870067'
 global.psaweria = '-'
 
 
@@ -313,8 +313,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/266b27b2c563f41d48609.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/266b27b2c563f41d48609.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/7d5031d5586fe4dff2891.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/7d5031d5586fe4dff2891.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
@@ -342,17 +342,17 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 'https://telegra.ph/file/180e28807e78419d45537.jpg','https://telegra.ph/file/140eff27be983e0cd6781.jpg','https://telegra.ph/file/1581b791e16d0029e16b5.jpg','https://telegra.ph/file/6a4b36372b4f265bae3bc.jpg','https://telegra.ph/file/093caff422f194f00bc6c.jpg','https://telegra.ph/file/2294b7ab49eca8a8046b2.jpg','https://telegra.ph/file/869224d1c417e8b5c8ff1.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg','https://telegra.ph/file/1889878933264d16c58bf.jpg','https://telegra.ph/file/735aeb47d9c4aa87aaaf3.jpg','https://telegra.ph/file/fcf861516db09dda164e0.jpg','https://telegra.ph/file/355d96d7e06d109435f67.jpg']
 
 
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/wannzx_133"
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0812 6597 0249'
+global.dtu = 'Siesta Multi Device'
+global.urlnya = "https://www.instagram.com/siesta"
+global.dtc = 'Swift Developer'
+global.phn = '088980870067'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/266b27b2c563f41d48609.jpg'
+global.thumbdoc = 'https://telegra.ph/file/7d5031d5586fe4dff2891.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
