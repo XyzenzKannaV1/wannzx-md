@@ -12,10 +12,10 @@ Pengen yang udah di recode oleh owner?
 Script bot ini gratis. jika kalian ingin,bisa chat nomor
 dibawah ini!!
 
-https://wa.me/message/6TYVKZNILFJYL1
+https://wa.me/6288980870067
 `
 conn.sendButtonDoc(m.chat, cap, botdate,'⫷ ʙᴀᴄᴋ ⫸','.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: false,
-    mediaUrl: 'https://instagram/wannzx_133',
+    mediaUrl: 'https://instagram/siesta',
     mediaType: 2, 
     description: sgc,
     title: '≪ ᴄʟɪᴄᴋ ʜᴇʀᴇ ⋟',
