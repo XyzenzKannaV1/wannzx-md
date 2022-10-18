@@ -23,26 +23,26 @@ let teksnomor = (
 )
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown1 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1])
-let teksbio = `┆✧  Nama : Wannzx-Md
-┆✧  Nama RL : HAMBA ALLAH
+let teksbio = `┆✧  Nama : Swift Developer
+┆✧  Nama RL : Swift
 ┆✧  Gender : Pria
 ┆✧  Agama : Islam
-┆✧  Tanggal lahir : 27 - 08 - 2006
-┆✧  Umur : 16
-┆✧  Kelas : IX
+┆✧  Tanggal lahir : 00 - 00 - 0000
+┆✧  Umur : 0000000000000
+┆✧  Kelas : 00
 ┆✧  Hobby : 𝙼𝚘𝚍𝚒𝚏𝚒𝚔𝚊𝚜𝚒 𝚙𝚎𝚛𝚊𝚗𝚐𝚔𝚊𝚝 𝚕𝚞𝚗𝚊𝚔
 ┆✧  Sifat : ASIK,BAIK,RAMAH
 ┆✧  Tinggal : Indonesia, Sumatera Utara
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆✧  Nama : WannBotz-MD
-┆✧  Nama RL : HAMBA ALLAH
+let teksbio2 = `┆✧  Nama : Siesta
+┆✧  Nama RL : Siesta
 ┆✧  Gender : Wanita
-┆✧  Agama : Islam
-┆✧  Tanggal lahir : 27 - 08 - 2006
-┆✧  Umur : 16
-┆✧  Kelas : IX
+┆✧  Agama : YTTA
+┆✧  Tanggal lahir : 00 - 00 - 0000
+┆✧  Umur : 00
+┆✧  Kelas : 00
 ┆✧  Hobby : Banyak
 ┆✧  Sifat : ASIK,BAIK,RAMAH
 ┆✧  Tinggal : Indonesia, Bengkulu
